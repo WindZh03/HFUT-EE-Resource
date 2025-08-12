@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# macOS Finder files
+#  These files are created by macOS Finder and can be ignored.
+#  They are not needed for version control and can clutter the repository.
+#  For more information, see https://support.apple.com/en-us/HT201236
+.DS_Store
